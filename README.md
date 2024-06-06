@@ -1,5 +1,5 @@
 # Data Professional Survey Dataset
-This dataset contains responses from data professionals about their current roles, salaries, job satisfaction, career challenges, demographics, and preferences. The survey aims to provide insights into the landscape of the data industry, highlighting various aspects of the profession from the perspective of those within it.
+This dataset contains responses from data professionals about their current roles, salaries, job satisfaction, career challenges and preferences. The survey aims to provide insights into the landscape of the data industry, highlighting various aspects of the profession from the perspective of those within it.
 
 ## Dataset Overview
 The dataset includes the following columns:
@@ -22,4 +22,4 @@ This dataset can be used for various purposes, such as:
 4. Understanding preferences for programming languages among data professionals.
 
 ## How to Access the Data
-The dataset is available in a CSV format for easy use and integration into your data analysis workflows. You can download the dataset from the repository and load it into your preferred data analysis tool or programming environment.
+The dataset is available in a .xlsx format for easy use and integration into your data analysis workflows. You can download the dataset from the repository and load it into Power BI to start your analysis.
