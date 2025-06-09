@@ -23,3 +23,5 @@ This dataset can be used for various purposes, such as:
 
 ## How to Access the Data
 The dataset is available in a .xlsx format for easy use and integration into your data analysis workflows. You can download the dataset from the repository and load it into Power BI to start your analysis.
+
+![Screenshot](dashboard_report.png)
